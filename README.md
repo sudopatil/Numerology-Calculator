@@ -4,7 +4,6 @@ Overview
 The Numerology Application is a simple Java-based program that calculates numerology results based on the user's name and birthdate. The application is built using the Swing library for GUI and performs numerology calculations to display information such as the ruling planet, Mulaank (life path number), Bhagyank (fortune number), name ultimate sum, and a description associated with the provided inputs.
 
 Features
-
 Graphical User Interface: Interactive interface for user input and result display.
 
 Numerology Calculations:
